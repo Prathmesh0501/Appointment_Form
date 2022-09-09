@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin: 20% auto;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.thankyou {
+    background-color: aqua;
+
+}
